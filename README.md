@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ansal Mathew</h1>
+<h1 align="center">Hi 👋, I'm Ansal P Mathew</h1>
 <h3 align="center">📊 Data Analyst | Power BI | SQL | Python</h3>
 
 <p align="center">
