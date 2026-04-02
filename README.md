@@ -56,7 +56,6 @@
 ✔ Dashboard Development (Power BI)
 ✔ SQL Query Optimization
 ✔ Business Insights & Reporting
-
 ---
 
 ## 🌐 Connect With Me
