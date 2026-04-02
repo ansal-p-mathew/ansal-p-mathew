@@ -52,10 +52,11 @@
 
 ## 📈 What I Do
 
-✔ Data Cleaning & Transformation
-✔ Dashboard Development (Power BI)
-✔ SQL Query Optimization
-✔ Business Insights & Reporting
+* Data Cleaning & Transformation
+* Dashboard Development (Power BI)
+* SQL Query Optimization
+* Business Insights & Reporting
+
 ---
 
 ## 🌐 Connect With Me
