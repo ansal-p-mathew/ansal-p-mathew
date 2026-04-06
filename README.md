@@ -5,12 +5,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ansal-p-mathew&color=blue&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 ## 🚀 About Me
 
 * 🎓 BTech Graduate | 📊 Data Analytics Intern
-* 📈 Passionate about turning **data into insights**
+* 📈 Passionate about turning **data into actionable insights**
 * 🧠 Skilled in **Python, SQL, Excel, Power BI**
 * 🎯 Goal: Become a **Data Analyst / BI Analyst**
 
@@ -30,11 +34,24 @@
 
 ---
 
+## 🚀 Featured Projects
+
+* 📊 **ATM Performance Analysis (SQL + Power BI)**
+  → Revenue, cost, and profitability analysis using descriptive & diagnostic techniques
+
+* 🛒 **Customer Shopping Behavior Analysis**
+  → Customer segmentation, sales trends, and behavioral insights
+
+* 🌍 **Global Superstore Dashboard**
+  → Sales, profit, and customer analytics with YoY insights
+
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ansal-p-mathew&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ansal-p-mathew\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ansal-p-mathew&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ansal-p-mathew\&layout=compact\&theme=radical)
 
 ---
 
@@ -46,12 +63,18 @@
 
 ---
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansal-p-mathew\&theme=react-dark)
+
+---
+
 ## 📈 What I Do
 
-* Data Cleaning & Transformation
-* Dashboard Development (Power BI)
-* SQL Query Optimization
-* Business Insights & Reporting
+* Data Cleaning & Transformation using **Python (Pandas, NumPy)**
+* Interactive Dashboard Development using **Power BI**
+* SQL-based Data Analysis & Query Optimization
+* Business Insights, KPI Tracking & Reporting
 
 ---
 
