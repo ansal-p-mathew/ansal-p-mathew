@@ -34,26 +34,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-* 📊 **ATM Performance Analysis (SQL + Power BI)**
-  → Revenue, cost, and profitability analysis using descriptive & diagnostic techniques
-
-* 🛒 **Customer Shopping Behavior Analysis**
-  → Customer segmentation, sales trends, and behavioral insights
-
-* 🌍 **Global Superstore Dashboard**
-  → Sales, profit, and customer analytics with YoY insights
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ansal-p-mathew\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ansal-p-mathew\&layout=compact\&theme=radical)
-
----
 
 ## 🔥 Contribution Streak
 
