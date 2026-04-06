@@ -32,13 +32,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ansal-p-mathew&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ansal-p-mathew&show_icons=true&theme=radical)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansal-p-mathew&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ansal-p-mathew&layout=compact&theme=radical)
 
 ---
 
