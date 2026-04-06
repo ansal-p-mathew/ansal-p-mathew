@@ -63,11 +63,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansal-p-mathew\&theme=react-dark)
-
----
 
 ## 📈 What I Do
 
