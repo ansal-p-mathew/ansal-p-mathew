@@ -16,7 +16,6 @@
 * 🎓 BTech Graduate | 📊 Data Analytics Intern
 * 📈 Passionate about turning **data into actionable insights**
 * 🧠 Skilled in **Python, SQL, Excel, Power BI**
-* 🎯 Goal: Become a **Data Analyst / BI Analyst**
 
 ---
 
